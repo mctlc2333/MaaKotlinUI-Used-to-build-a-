@@ -259,5 +259,4 @@ python scripts/setup_maaframework.py --tag v5.12.3   # 指定版本
 
 ## 许可证
 
-
 项目根目录包含 [GPLv3 许可证](LICENSE)。项目仅用于学习与个人使用，请遵守软件及服务提供商的相关规定，自行承担使用风险。
